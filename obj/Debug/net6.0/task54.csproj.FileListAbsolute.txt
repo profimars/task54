@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\bin\Debug\net6.0\task54.exe
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\bin\Debug\net6.0\task54.deps.json
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\bin\Debug\net6.0\task54.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\bin\Debug\net6.0\task54.pdb
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\refint\task54.dll
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.pdb
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Seminars\20230319\HomeTasks\task54\obj\Debug\net6.0\ref\task54.dll
